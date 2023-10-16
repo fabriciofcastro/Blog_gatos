@@ -79,6 +79,10 @@ main h1 {
   background-color: var(--brand-colors-explorer-dark);
   border-radius: 100%;
 }
+.icon_curtir:hover,
+.icon_n_curtit:hover {
+  background-color: #05546e;
+}
 
 article {
   color: var(--platform-aliases-background);
